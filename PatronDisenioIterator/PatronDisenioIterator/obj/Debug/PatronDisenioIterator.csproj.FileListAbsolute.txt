@@ -1,0 +1,10 @@
+C:\Users\francisco.cordovafgk\source\repos\PatronDisenioIterator\PatronDisenioIterator\obj\Debug\PatronDisenioIterator.csprojAssemblyReference.cache
+C:\Users\francisco.cordovafgk\source\repos\PatronDisenioIterator\PatronDisenioIterator\obj\Debug\PatronDisenioIterator.Form1.resources
+C:\Users\francisco.cordovafgk\source\repos\PatronDisenioIterator\PatronDisenioIterator\obj\Debug\PatronDisenioIterator.Properties.Resources.resources
+C:\Users\francisco.cordovafgk\source\repos\PatronDisenioIterator\PatronDisenioIterator\obj\Debug\PatronDisenioIterator.csproj.GenerateResource.cache
+C:\Users\francisco.cordovafgk\source\repos\PatronDisenioIterator\PatronDisenioIterator\obj\Debug\PatronDisenioIterator.csproj.CoreCompileInputs.cache
+C:\Users\francisco.cordovafgk\source\repos\PatronDisenioIterator\PatronDisenioIterator\bin\Debug\PatronDisenioIterator.exe.config
+C:\Users\francisco.cordovafgk\source\repos\PatronDisenioIterator\PatronDisenioIterator\bin\Debug\PatronDisenioIterator.exe
+C:\Users\francisco.cordovafgk\source\repos\PatronDisenioIterator\PatronDisenioIterator\bin\Debug\PatronDisenioIterator.pdb
+C:\Users\francisco.cordovafgk\source\repos\PatronDisenioIterator\PatronDisenioIterator\obj\Debug\PatronDisenioIterator.exe
+C:\Users\francisco.cordovafgk\source\repos\PatronDisenioIterator\PatronDisenioIterator\obj\Debug\PatronDisenioIterator.pdb
